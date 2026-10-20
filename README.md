@@ -17,6 +17,11 @@ Two SaaS products of my own (private repositories, demos available on request):
 - **Veterinary solution**: software for managing veterinary clinic operations
 - **Legal solution**: software for managing law practice workflows
 
+## 🌐 Recent web projects
+
+- **[Positive Penguin Technologies](https://positivepenguintechnologies.com)**: website for a digital transformation and custom software consultancy, deployed on Vercel
+- **[Sunrise Travel](https://sunrisetravel.vercel.app)**: Next.js website for a travel agency client, deployed on Vercel and launching soon
+
 ## 💼 Selected client work
 
 Most of my professional work lives in private client repositories. Highlights include:
